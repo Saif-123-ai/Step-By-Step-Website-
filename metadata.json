@@ -1,0 +1,6 @@
+{
+  "name": "Step By Step Coaching Centre",
+  "description": "Official website for Step By Step Coaching Centre in Shaheen Bagh, Jamia Nagar, Okhla, New Delhi. Quality coaching for NEET, JEE, and CBSE Board examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

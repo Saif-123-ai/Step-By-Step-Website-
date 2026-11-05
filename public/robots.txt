@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stepbystepcoaching.in/sitemap.xml
